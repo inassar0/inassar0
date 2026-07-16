@@ -30,7 +30,7 @@ object Nassar {
 ---
 
 <p align="center">
-    <a href="https://github.com/inassar0"><img width="48%" alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=inassar0&theme=dracula&show_icons=true&hide_border=true"></a>
+    <a href="https://github.com/inassar0"><img width="48%" alt="Github Stats" src="https://github-stats-extended.vercel.app/api?username=inassar0&rank_icon=percentile&show_icons=true&include_all_commits=true&theme=darcula"></a>
     <a href="https://github.com/inassar0"><img width="48%" alt="Github Streak" src="https://github-readme-streak-stats.herokuapp.com?user=inassar0&theme=dracula&hide_border=true"></a>
 </p>
 

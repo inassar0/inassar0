@@ -36,7 +36,7 @@ object Nassar {
 
 <p align="center">
     <a href="https://github.com/inassar0?tab=followers"><img alt="GitHub" src="https://img.shields.io/github/followers/inassar0?label=GitHub&logo=GitHub&style=for-the-badge"></a>
-    <a href="https://twitter.com/inassar0"><img alt="Twitter" src="https://img.shields.io/twitter/follow/inassar0?label=Twitter&logo=Twitter&style=for-the-badge"></a>
+    <a href="https://x.com/inassar0"><img alt="x" src="https://img.shields.io/twitter/follow/inassar0?logo=x&style=for-the-badge"></a>
 </p>
 <p align="center">
     <a href="https://github.com/inassar0"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=inassar0&style=flat-square"></a>

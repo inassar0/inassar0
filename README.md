@@ -46,6 +46,6 @@ object Nassar {
 ### Contact me here or follow me on twitter I tweet about tech stuff and share cat memes all the time.
 [<img align="left" width="22" alt="inassar0 on Gmail" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg">](mailto:ahmed.nassar163@gmail.com)
 [<img align="left" width="22" alt="inassar0 on Instagram" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/instagram.svg">](https://instagram.com/inassar0)
-[<img align="left" width="22" alt="inassar0 on Twitter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg">](https://twitter.com/inassar0)
+[<img align="left" width="22" alt="inassar0 on Twitter" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/x.svg">](https://twitter.com/inassar0)
 [<img align="left" width="22" alt="inassar0 on LinkedIn" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg">](https://linkedin.com/in/inassar0)
 <br>
